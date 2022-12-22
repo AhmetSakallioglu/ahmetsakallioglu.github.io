@@ -39,8 +39,23 @@ body{
     margin-right: 1px;
 }
 
+a {
+    -webkit-transition: .3s all ease;
+    -o-transition: .3s all ease;
+    transition: .3s all ease;
+}
+
+.social-media p a span{
+    color: #fff;
+}
+
 .social-media p a:hover{
     background-color: #fff;
+    border-color: #fff;
+}
+
+.social-media p a:hover span{
+    color: #6bb8b2;
 }
 
 .justify-content-center{
@@ -53,4 +68,9 @@ body{
     -webkit-box-pack: end!important;
     -ms-flex-pack: end!important;
     justify-content: flex-end!important;
+}
+
+.wrap .links a{
+    color: #fff;
+    font-size: 12px;
 }
