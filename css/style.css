@@ -173,3 +173,9 @@ a:hover {
 .servicesitem{
     padding: 0;
 }
+
+.text-muted {
+    color: #ccc !important;
+    font-size: 12px;
+    text-transform: uppercase;
+}
