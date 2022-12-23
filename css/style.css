@@ -240,3 +240,11 @@ a:hover {
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
 }
+
+.pet-footer a:hover {
+    color: #fff;
+}
+
+.pet-footer a:hover span{
+    color: #6bb8b2;
+}
