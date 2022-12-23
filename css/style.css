@@ -132,3 +132,8 @@ a:hover {
     text-align: left;
     float: left;
 }
+
+
+.services img {
+    height: 230px;
+}
