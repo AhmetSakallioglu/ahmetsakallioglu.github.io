@@ -127,3 +127,8 @@ a:hover {
     border: 2px solid #6bb8b2;
     background-color: #6bb8b2;
 }
+
+.makale-title {
+    text-align: left;
+    float: left;
+}
