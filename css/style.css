@@ -164,3 +164,8 @@ a:hover {
     -o-transition: all 0.4s;
     transition: all 0.4s;
 }
+
+
+.servicesitem:hover .centered{
+    padding: 50px 0px;
+}
