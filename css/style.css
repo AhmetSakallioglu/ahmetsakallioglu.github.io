@@ -208,6 +208,9 @@ a:hover {
     list-style: none;
 }
 
-.pet-footer a, p {
+.pet-footer a {
+    color: rgba(255, 255, 255, 0.7);
+}
+.pet-footer p {
     color: rgba(255, 255, 255, 0.7);
 }
