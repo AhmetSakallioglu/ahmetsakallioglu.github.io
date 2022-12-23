@@ -215,6 +215,12 @@ a:hover {
     color: rgba(255, 255, 255, 0.7);
 }
 
+.pet-footer-social li {
+    list-style: none;
+    margin: 0 10px 0 0;
+    display: inline-block;
+}
+
 .pet-footer-social li a span {
     position: absolute;
     font-size: 26px;
