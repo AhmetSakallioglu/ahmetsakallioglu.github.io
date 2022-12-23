@@ -169,3 +169,7 @@ a:hover {
 .servicesitem:hover .centered{
     padding: 50px 0px;
 }
+
+.servicesitem{
+    padding: 0;
+}
