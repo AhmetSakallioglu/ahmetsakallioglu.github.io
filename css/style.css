@@ -194,3 +194,16 @@ a:hover {
     -o-background-size: cover;
     background-size: cover;
 }
+
+.pet-footer h3 {
+    font-weight: normal;
+    color: #fff;
+    margin-bottom: 40px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.list-unstyled {
+    padding-left: 0;
+    list-style: none;
+}
