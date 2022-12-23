@@ -81,3 +81,13 @@ a:hover {
     font-weight: 800;
     padding-bottom: 20px;
 }
+
+.block{
+    overflow: hidden;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 220px;
+    position: relative;
+    display: block;
+}
