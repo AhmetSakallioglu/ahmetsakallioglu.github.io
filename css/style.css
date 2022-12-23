@@ -107,3 +107,23 @@ a:hover {
     font-size: 24px;
     margin-bottom: 10px;
 }
+
+.makalebutton{
+    font-size: 16px;
+    font-weight: 500;
+    color: #6bb8b2;
+    border: 2px solid #6bb8b2;
+    padding: 12px 30px;
+    display: inline-block;
+    float: right;
+    margin-top: 20px;
+    -webkit-transition: .5s all ease-in-out;
+    -o-transition: .5s all ease-in-out;
+    transition: .5s all ease-in-out;
+}
+
+.makalebutton:hover {
+    color: #fff;
+    border: 2px solid #6bb8b2;
+    background-color: #6bb8b2;
+}
