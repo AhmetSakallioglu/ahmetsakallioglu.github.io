@@ -221,6 +221,16 @@ a:hover {
     display: inline-block;
 }
 
+.pet-footer-social li a {
+    height: 50px;
+    width: 50px;
+    display: block;
+    float: left;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 50%;
+    position: relative;
+}
+
 .pet-footer-social li a span {
     position: absolute;
     font-size: 26px;
