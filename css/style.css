@@ -241,8 +241,9 @@ a:hover {
     transform: translate(-50%, -50%);
 }
 
-.pet-footer a:hover {
+.pet-footer a:hover{
     color: #fff;
+    background-color: #fff;
 }
 
 .pet-footer a:hover span{
