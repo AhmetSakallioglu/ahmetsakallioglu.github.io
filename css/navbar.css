@@ -19,5 +19,15 @@
     opacity: 1 !important;
 }
 
-navbar-light .navbar-nav > .nav-item > .nav-link:hover {
-    color: #6bb8b2; }
+.navbar-light .navbar-nav > .nav-item > .nav-link:hover {
+    color: #6bb8b2;
+}
+
+
+.navbar-light .navbar-nav > .nav-item > .nav-link:hover:before {
+    visibility: visible;
+    background-color: #6bb8b2;
+    -webkit-transform: scaleX(1);
+    -ms-transform: scaleX(1);
+    transform: scaleX(1);
+}
