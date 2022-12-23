@@ -8,6 +8,7 @@ body{
     font-weight: 400;
     font-size: 1rem;
     line-height: 1.7;
+    font-family: 'Nunito', sans-serif;
 }
 
 .wrap{
@@ -178,4 +179,18 @@ a:hover {
     color: #ccc !important;
     font-size: 12px;
     text-transform: uppercase;
+}
+
+
+.pet-footer {
+    font-size: 16px;
+    padding: 5em 0 0 0;
+    background: rgb(56,157,149);
+    background: -moz-linear-gradient(6deg, rgba(56,157,149,1) 0%, rgba(107,184,178,1) 100%);
+    background: -webkit-linear-gradient(6deg, rgba(56,157,149,1) 0%, rgba(107,184,178,1) 100%);
+    background: linear-gradient(6deg, rgba(56,157,149,1) 0%, rgba(107,184,178,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#389d95",endColorstr="#6bb8b2",GradientType=1);
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
