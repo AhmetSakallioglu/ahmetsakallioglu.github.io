@@ -91,6 +91,7 @@ a:hover {
     height: 220px;
     position: relative;
     display: block;
+    border-radius: 0.25rem !important;
 }
 
 .yazisinirla{
