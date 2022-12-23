@@ -147,3 +147,20 @@ a:hover {
     background-color: #6bb8b2;
     padding: 3px 8px;
 }
+
+
+.centered {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 18px;
+    color: #fff;
+    background-color: rgba(107, 184, 178,0.3);
+    width: 100%;
+    text-align: center;
+    padding: 5px 0;
+    -webkit-transition: all 0.4s;
+    -o-transition: all 0.4s;
+    transition: all 0.4s;
+}
