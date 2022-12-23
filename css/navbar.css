@@ -31,3 +31,15 @@
     -ms-transform: scaleX(1);
     transform: scaleX(1);
 }
+
+.navbar-light .navbar-nav > .nav-item.active > a {
+    color: #6bb8b2;
+}
+
+.navbar-light .navbar-nav > .nav-item.active > a:before {
+    visibility: visible;
+    background-color: #6bb8b2;
+    -webkit-transform: scaleX(1);
+    -ms-transform: scaleX(1);
+    transform: scaleX(1);
+}
