@@ -39,6 +39,10 @@ a {
     transition: .3s all ease;
 }
 
+a:hover {
+    text-decoration: none;
+}
+
 .social-media p a span{
     color: #fff;
 }
