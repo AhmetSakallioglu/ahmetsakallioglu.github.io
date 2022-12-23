@@ -207,3 +207,7 @@ a:hover {
     padding-left: 0;
     list-style: none;
 }
+
+.pet-footer a, p {
+    color: rgba(255, 255, 255, 0.7);
+}
