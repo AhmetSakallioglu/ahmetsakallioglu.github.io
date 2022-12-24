@@ -249,3 +249,9 @@ a:hover {
 .pet-footer a:hover span{
     color: #6bb8b2;
 }
+
+.faqs {
+    position: relative;
+    width: 100%;
+    padding: 45px 0;
+}
