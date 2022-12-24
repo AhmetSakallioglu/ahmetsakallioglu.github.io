@@ -22,15 +22,15 @@
     border-radius: 2px;
     width: 100%;
 }
-.blog-hizmetler .text .heading {
+.makaleler-blog .text .heading {
     font-size: 24px;
     margin-bottom: 16px;
     font-weight: 400; }
 
-.blog-hizmetler .text .heading a {
+.makaleler-blog .text .heading a {
       color: #000000;
 }
-.blog-hizmetler .text .heading a:hover, .blog-hizmetler .text .heading a:focus, .blog-hizmetler .text .heading a:active {
+.makaleler-blog .text .heading a:hover, .makaleler-blog .text .heading a:focus, .makaleler-blog .text .heading a:active {
         color: #6bb8b2;
 }
 
