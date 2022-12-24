@@ -289,3 +289,13 @@ a:hover {
     color: #000000;
     border-radius: 5px;
 }
+
+.faqs .card-header [data-toggle="collapse"]:after {
+    font-family: 'font Awesome 5 Free';
+    content: "\f067";
+    float: right;
+    color: #6bb8b2;
+    font-size: 12px;
+    font-weight: 900;
+    transition: .3s;
+}
