@@ -16,3 +16,22 @@
     color: #fff;
 }
 
+.info-wrap .text {
+    width: calc(100% - 50px);
+}
+
+.info-wrap p a {
+    color: #fff;
+}
+
+.btn {
+    font-size: 16px;
+    border-radius: 30px;
+    padding: 10px 30px;
+}
+
+.contact-btn-hov:hover {
+    border: 1px solid #6bb8b2;
+    background-color: #fff;
+    color: #6bb8b2;
+}
