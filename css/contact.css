@@ -20,6 +20,10 @@
     width: calc(100% - 50px);
 }
 
+.info-wrap p {
+    margin-bottom: 0;
+}
+
 .info-wrap p a {
     color: #fff;
 }
