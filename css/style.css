@@ -305,3 +305,7 @@ a:hover {
 .breadcrumb {
     background-color: #6bb8b2;
 }
+
+.urunler .urunrow p{
+    color: gray;
+}
