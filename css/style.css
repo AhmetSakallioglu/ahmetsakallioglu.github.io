@@ -306,6 +306,15 @@ a:hover {
     background-color: #6bb8b2;
 }
 
+.breadcrumb-item{
+    color: #fff;
+}
+
+.breadcrumb-item.active{
+    color: #fff;
+    font-weight: bolder;
+}
+
 .urunler .urunrow p{
     color: gray;
 }
