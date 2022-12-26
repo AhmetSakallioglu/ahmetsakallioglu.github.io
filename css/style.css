@@ -306,6 +306,11 @@ a:hover {
     background-color: #6bb8b2;
 }
 
+.breadcrumb {
+    margin-bottom: 0px!important;
+    background-color: #6bb8b2;
+}
+
 .breadcrumb-item{
     color: #fff;
 }
