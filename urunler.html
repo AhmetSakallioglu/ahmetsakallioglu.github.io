@@ -17,24 +17,6 @@
 </head>
 <body>
 
-  <div id="overlayer"></div>
-  <div class="loader">
-    <div class="spinner-border" role="status" style="color: #6bb8b2;">
-      <span class="sr-only" >Yükleniyor...</span>
-    </div>
-  </div>
-
-  <div class="site-wrap"  id="home-section">
-
-    <div class="site-mobile-menu site-navbar-target">
-      <div class="site-mobile-menu-header">
-        <div class="site-mobile-menu-close mt-3">
-          <span class="icon-close2 js-menu-toggle"></span>
-        </div>
-      </div>
-      <div class="site-mobile-menu-body"></div>
-    </div>
-  </div>
   
 <div class="wrap">
   <div class="container">
@@ -86,10 +68,10 @@
     <a class="navbar-brand" href="index.html">
       <img src="img/petlogo.png" class="img-fluid" alt="logo" width="85px;">
     </a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="fa fa-bars"></span> Menü
+    <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" aria-expanded="false" aria-label="Toggle navigation" data-target="#collapsibleNavbar">
+      <span class="fa fa-bars"></span>
     </button>
-    <div class="collapse navbar-collapse">
+    <div class="collapse navbar-collapse" id="collapsibleNavbar">
       <ul class="navbar-nav ml-auto">
         <li class="nav-item">
           <a href="index.html" class="nav-link">
@@ -289,7 +271,6 @@
     <script src="js/jquery-3.6.0.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/slider.js"></script>
-    <script src="js/main.js"></script>
   
   </body>
   </html>
