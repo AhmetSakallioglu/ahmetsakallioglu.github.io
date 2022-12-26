@@ -311,7 +311,7 @@ a:hover {
     background-color: #6bb8b2;
 }
 
-.breadcrumb-item{
+.breadcrumb-item a{
     color: #fff;
 }
 
