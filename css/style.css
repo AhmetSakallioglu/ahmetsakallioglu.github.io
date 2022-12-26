@@ -301,3 +301,7 @@ a:hover {
     font-weight: 900;
     transition: .3s;
 }
+
+.breadcrumb {
+    background-color: #6bb8b2;
+}
