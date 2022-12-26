@@ -315,7 +315,7 @@ a:hover {
     color: #fff;
 }
 
-.breadcrumb-item a .active{
+.breadcrumb-item .active{
     color: #fff;
     font-weight: bolder;
 }
